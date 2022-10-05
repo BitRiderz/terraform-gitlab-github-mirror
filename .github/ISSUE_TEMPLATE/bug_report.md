@@ -9,8 +9,6 @@ assignees: ''
 
 Found a bug? Maybe our [Discord Community](https://discord.gg/eGPyyDUfky) can help. 
 
-[![Discord Community](https://slack.cloudposse.com/badge.svg)](https://discord.gg/eGPyyDUfky)
-
 ## Describe the Bug
 A clear and concise description of what the bug is.
 
