@@ -38,8 +38,8 @@ jobs:
       uses: cloudposse/actions/github/create-pull-request@0.30.0
       with:
         token: ${{ secrets.PUBLIC_REPO_ACCESS_TOKEN }}
-        committer: 'bitriderzbot <11232728+bitriderzbot@users.noreply.github.com>'
-        author: 'bitriderzbot <11232728+bitriderzbot@users.noreply.github.com>'
+        committer: 'bitriderzbot <115081946+bitriderzbot@users.noreply.github.com>'
+        author: 'bitriderzbot <115081946+bitriderzbot@users.noreply.github.com>'
         commit-message: Update context.tf from origin source
         title: Update context.tf
         body: |-
