@@ -37,7 +37,7 @@ description: |-
 
 # How to use this project
 examples: |-
-  This is an example for the project.
+  This is (an) example(s) for the project.
 
 include:
   - "docs/targets.md"
