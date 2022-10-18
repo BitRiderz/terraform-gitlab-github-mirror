@@ -4,22 +4,22 @@
 # Order is important: the last matching pattern has the highest precedence
 
 # These owners will be the default owners for everything
-*             @bitriderz/engineering @bitriderz/contributors
+*             @cloudposse/engineering @cloudposse/contributors
 
-# BitRiderz must review any changes to Makefiles
-**/Makefile   @bitriderz/engineering
-**/Makefile.* @bitriderz/engineering
+# Cloud Posse must review any changes to Makefiles
+**/Makefile   @cloudposse/engineering
+**/Makefile.* @cloudposse/engineering
 
-# BitRiderz must review any changes to GitHub actions
-.github/*     @bitriderz/engineering
+# Cloud Posse must review any changes to GitHub actions
+.github/*     @cloudposse/engineering
 
-# BitRiderz must review any changes to standard context definition,
+# Cloud Posse must review any changes to standard context definition,
 # but some changes can be rubber-stamped.
-**/*.tf       @bitriderz/engineering @bitriderz/contributors @bitriderz/approvers
-README.yaml   @bitriderz/engineering @bitriderz/contributors @bitriderz/approvers
-README.md     @bitriderz/engineering @bitriderz/contributors @bitriderz/approvers
-docs/*.md     @bitriderz/engineering @bitriderz/contributors @bitriderz/approvers
+**/*.tf       @cloudposse/engineering @cloudposse/contributors @cloudposse/approvers
+README.yaml   @cloudposse/engineering @cloudposse/contributors @cloudposse/approvers
+README.md     @cloudposse/engineering @cloudposse/contributors @cloudposse/approvers
+docs/*.md     @cloudposse/engineering @cloudposse/contributors @cloudposse/approvers
 
-# BitRiderz Admins must review all changes to CODEOWNERS or the mergify configuration
-.github/mergify.yml @bitriderz/admins
-.github/CODEOWNERS  @bitriderz/admins
+# Cloud Posse Admins must review all changes to CODEOWNERS or the mergify configuration
+.github/mergify.yml @cloudposse/admins
+.github/CODEOWNERS  @cloudposse/admins

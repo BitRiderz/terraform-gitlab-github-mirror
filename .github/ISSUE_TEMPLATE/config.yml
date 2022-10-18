@@ -2,7 +2,17 @@ blank_issues_enabled: false
 
 contact_links:
 
-  - name: Community Discord Team
-    url: https://discord.gg/eGPyyDUfky
+  - name: Community Slack Team
+    url: https://cloudposse.com/slack/
     about: |-
       Please ask and answer questions here.
+
+  - name: Office Hours
+    url: https://cloudposse.com/office-hours/
+    about: |-
+      Join us every Wednesday for FREE Office Hours (lunch & learn).
+
+  - name: DevOps Accelerator Program
+    url: https://cloudposse.com/accelerate/
+    about: |-
+      Own your infrastructure in record time. We build it. You drive it. 
