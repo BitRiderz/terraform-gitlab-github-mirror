@@ -1,0 +1,51 @@
+---
+#
+# This is the canonical configuration for the `README.md`
+# Run `make readme` to rebuild the `README.md`
+#
+
+# Name of this project
+name: terraform-public-repo-template
+
+# Tags of this project
+tags:
+  - terraform
+  - terraform-modules
+  - platform
+
+# Categories of this project
+categories:
+  - terraform-modules/template
+
+# Logo for this project
+#logo: docs/logo.png
+
+# License of this project
+license: "APACHE2"
+
+# Canonical GitHub repo
+github_repo: bitRiderz/terraform-public-repo-template
+
+# Badges to display
+badges:
+
+related:
+
+# Short description of this project
+description: |-
+  This is the description of the project.
+
+# How to use this project
+examples: |-
+  This is an example for the project.
+
+include:
+  - "docs/targets.md"
+  - "docs/terraform.md"
+
+# Contributors to this project
+contributors:
+  - name: "Gabor Nyerges"
+    github: "gabornyerges"
+  - name: "Kristof Hetenyi"
+    github: "TheDoctor028"
